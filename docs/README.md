@@ -1,4 +1,4 @@
-# GraphViewExtension 文档
+# BehaviourTree 文档
 
 各部分功能说明及使用方式文档
 
